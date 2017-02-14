@@ -1,3 +1,5 @@
+# /!\ No longer functional.
+
 # github-light-header
 
 Show the light Github header instead of the dark one
